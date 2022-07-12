@@ -3,7 +3,7 @@ layout: cv
 title: Diogo Silva 
 ---
 # Diogo Silva 
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+385-212-7498 | diogoplantiersilve@gmail.com | https://www.linkedin.com/in/diogo-silva-37b23917a/
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
