@@ -12,16 +12,25 @@ Diogo Silva
 ## Education
 
 `Rexburg, Idaho`
-`April 2024`
-__Brigham Young University - Idaho
-Bachelor of Science in Economics
+
+`Expected Graduation: April 2024`
+
+__Brigham Young University - Idaho__
+
+__Bachelor of Science in Economics__
 
 - Minors in Math and Data Science
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`West Valley, Utah`
 
-- 4.0 Major GPA
+`May 2016`
+
+__American Preparatory Academy - The Accelerated School_
+
+- High School diploma
+- Served in student council with 5 other students to improve student and teacher relationship.
+- Concluded all class as honors student.
+- Trained soccer with Sparta United and Blue Knights.
 
 
 ## Related Experience
