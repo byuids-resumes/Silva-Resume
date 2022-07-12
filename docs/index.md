@@ -2,7 +2,7 @@
 layout: cv
 title: Diogo Silva 
 ---
-<font size="0"> <p align="center"> Diogo Silva </p> </font> 
+<font size="100"> <p align="center"> Diogo Silva </p> </font> 
 <p align="center">385-212-7498 | diogoplantiersilve@gmail.com | https://www.linkedin.com/in/diogo-silva-37b23917a/</p>
 
 
@@ -10,10 +10,12 @@ title: Diogo Silva
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Rexburg, Idaho`
+`April 2024`
+__Brigham Young University - Idaho
+Bachelor of Science in Economics
 
-- Full academic scholarship with 4.0 GPA
+- Minors in Math and Data Science
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
