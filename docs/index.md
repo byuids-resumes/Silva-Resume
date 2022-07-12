@@ -2,8 +2,8 @@
 layout: cv
 title: Diogo Silva 
 ---
-<font size="100"> <p align="center"> Diogo Silva </p> </font> 
-<p align="center">385-212-7498 | diogoplantiersilve@gmail.com | https://www.linkedin.com/in/diogo-silva-37b23917a/</p>
+<font size="1000"> <p align="center"> Diogo Silva </p> </font> 
+<p align="center">385-212-7498 | diogoplantiersilve@gmail.com | https://www.linkedin.com/in/diogo-silva-37b23917a/ </p>
 
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
