@@ -12,6 +12,7 @@ Diogo Silva
 
 `Rexburg, Idaho`
 
+
 `Expected Graduation: April 2024`
 
 __Brigham Young University - Idaho__
@@ -19,6 +20,7 @@ _Bachelor of Science in Economics_
 - Minors in Math and Data Science
 
 `West Valley, Utah`
+
 
 `May 2016`
 
@@ -34,6 +36,7 @@ __American Preparatory Academy - The Accelerated School__
 
 `Lisbon, Portugal` 
 
+
 `January 2020 - December 2020`
 
 __WEBHELP__
@@ -45,6 +48,7 @@ _German Advisors of Customer Support over HotelTonight_
 - Analyzed data from hundreds of hotels to be able to deliver recommendations to guests
 
 `Lisbon, Portugal` 
+
 
 `June 2019 - January 2020`
 
@@ -60,6 +64,7 @@ _German Airline Assistant, project TAP_
 ## Service
 
 `Munich, Germany`
+
 
 `December 2016 - November 2018`
 
