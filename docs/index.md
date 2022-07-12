@@ -2,14 +2,11 @@
 layout: cv
 title: Diogo Silva 
 ---
+<p align="center">
 # Diogo Silva 
+</p>
 385-212-7498 | diogoplantiersilve@gmail.com | https://www.linkedin.com/in/diogo-silva-37b23917a/
 
-<div id="webaddress">
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="[https://www.linkedin.com/groups/13537407/](https://www.linkedin.com/in/diogo-silva-37b23917a/)">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
