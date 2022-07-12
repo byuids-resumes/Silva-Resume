@@ -2,7 +2,7 @@
 layout: cv
 title: Diogo Silva 
 ---
-<p align="center"><font size="15">
+<p align="center"><font size="145">
  Diogo Silva 
 </font> </p>
 <p align="center">385-212-7498 | diogoplantiersilve@gmail.com | https://www.linkedin.com/in/diogo-silva-37b23917a/</p>
