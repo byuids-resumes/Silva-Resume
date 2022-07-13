@@ -81,19 +81,20 @@ _Full-time Missionary_
 activities, and educational activities
 - Volunteered as representatives of The Church of Jesus Christ of Latter-Day Saint engaged variously in proselytizing,
 church service, humanitarian aid, and community service in communities of Germany, Switzerland, and Austria
-- Provided service for a plethora of people in need in 3 Germanic areas: gardening, moving, building, cutting wood, 
-and cleaning
+- Provided service for a plethora of people in need in 3 Germanic areas: gardening, moving, building, cutting wood, and cleaning
 - Oversaw and conducted work performance of 25 different individuals
 
 Skill
 ------
 
 Programming:
+
   - Python
   - SQL
   - R
 
 Language: 
+
   - English (Native)
   - Portuguese (Native)
   - German (Comprehensive)
