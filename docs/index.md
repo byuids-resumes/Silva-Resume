@@ -1,3 +1,7 @@
+---
+layout: cv
+---
+
 Diogo Silva
 ======
 
