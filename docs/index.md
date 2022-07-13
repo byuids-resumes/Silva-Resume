@@ -2,7 +2,7 @@
 layout: cv
 title: Diogo Silva 
 ---
-<p align="center">Diogo Silva</p>
+<p align="center"> <font size="+2">Diogo Silva </font></p>
 
 <p align="center">385-212-7498 | diogoplantiersilve@gmail.com | <a href="https://www.linkedin.com/in/diogo-silva-37b23917a/">LinkedIn</a></p>
 
@@ -10,7 +10,7 @@ title: Diogo Silva
 
 ## Education
 
-`Rexburg, Idaho
+`Rexburg, Idaho;
 
 Expected Graduation: April 2024`
 
@@ -18,7 +18,7 @@ __Brigham Young University - Idaho__
 _Bachelor of Science in Economics_
 - Minors in Math and Data Science
 
-`West Valley, Utah
+`West Valley, Utah;
   
   May 2016`
 
@@ -32,7 +32,7 @@ __American Preparatory Academy - The Accelerated School__
 
 ## WORK EXPERIENCE
 
-`Lisbon, Portugal
+`Lisbon, Portugal;
 
 January 2020 - December 2020`
 
@@ -44,7 +44,7 @@ _German Advisors of Customer Support over HotelTonight_
 - Mediated thousands of relationships of hotels with guests through email, calls, and chats
 - Analyzed data from hundreds of hotels to be able to deliver recommendations to guests
 
-`Lisbon, Portugal
+`Lisbon, Portugal;
 
 June 2019 - January 2020`
 
@@ -59,7 +59,7 @@ _German Airline Assistant, project TAP_
 
 ## Service
 
-`Munich, Germany
+`Munich, Germany;
 
 December 2016 - November 2018`
 
