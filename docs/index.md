@@ -10,19 +10,15 @@ title: Diogo Silva
 
 ## Education
 
-`Rexburg, Idaho`
-
-
-`Expected Graduation: April 2024`
+`Rexburg, Idaho
+Expected Graduation: April 2024`
 
 __Brigham Young University - Idaho__
 _Bachelor of Science in Economics_
 - Minors in Math and Data Science
 
-`West Valley, Utah`
-
-
-`May 2016`
+`West Valley, Utah
+May 2016`
 
 __American Preparatory Academy - The Accelerated School__
 
@@ -34,10 +30,8 @@ __American Preparatory Academy - The Accelerated School__
 
 ## WORK EXPERIENCE
 
-`Lisbon, Portugal` 
-
-
-`January 2020 - December 2020`
+`Lisbon, Portugal
+January 2020 - December 2020`
 
 __WEBHELP__
 _German Advisors of Customer Support over HotelTonight_
@@ -47,10 +41,8 @@ _German Advisors of Customer Support over HotelTonight_
 - Mediated thousands of relationships of hotels with guests through email, calls, and chats
 - Analyzed data from hundreds of hotels to be able to deliver recommendations to guests
 
-`Lisbon, Portugal` 
-
-
-`June 2019 - January 2020`
+`Lisbon, Portugal
+June 2019 - January 2020`
 
 __Randstad__
 _German Airline Assistant, project TAP_
@@ -63,10 +55,8 @@ _German Airline Assistant, project TAP_
 
 ## Service
 
-`Munich, Germany`
-
-
-`December 2016 - November 2018`
+`Munich, Germany
+December 2016 - November 2018`
 
 __The Church of Jesus Christ of Latter-Day Saints__
 _Full-time Missionary_
