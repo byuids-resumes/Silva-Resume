@@ -4,8 +4,8 @@ layout: cv
 
 Diogo Silva
 ======
-
-#### 385-212-7498 | diogoplantiersilve@gmail.com | [LinkedIn](https://www.linkedin.com/in/diogo-silva-37b23917a/)
+385-212-7498 | diogoplantiersilve@gmail.com | [LinkedIn](https://www.linkedin.com/in/diogo-silva-37b23917a/)
+---------
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
