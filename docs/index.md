@@ -2,7 +2,7 @@
 layout: cv
 title: Diogo Silva 
 ---
-<p align="center"> <font size="+2">Diogo Silva </font></p>
+<p align="center"> <font size="1000">Diogo Silva </font></p>
 
 <p align="center">385-212-7498 | diogoplantiersilve@gmail.com | <a href="https://www.linkedin.com/in/diogo-silva-37b23917a/">LinkedIn</a></p>
 
@@ -15,6 +15,7 @@ title: Diogo Silva
 Expected Graduation: April 2024`
 
 __Brigham Young University - Idaho__
+
 _Bachelor of Science in Economics_
 - Minors in Math and Data Science
 
