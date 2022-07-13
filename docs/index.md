@@ -4,13 +4,14 @@ title: Diogo Silva
 ---
 <p align="center">Diogo Silva</p>
 
-<p align="center">385-212-7498 | diogoplantiersilve@gmail.com | [LinkedIn](https://www.linkedin.com/in/diogo-silva-37b23917a/)</p>
+<p align="center">385-212-7498 | diogoplantiersilve@gmail.com | <a href="https://www.linkedin.com/in/diogo-silva-37b23917a/">LinkedIn</a></p>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
 `Rexburg, Idaho
+
 Expected Graduation: April 2024`
 
 __Brigham Young University - Idaho__
@@ -18,7 +19,8 @@ _Bachelor of Science in Economics_
 - Minors in Math and Data Science
 
 `West Valley, Utah
-May 2016`
+  
+  May 2016`
 
 __American Preparatory Academy - The Accelerated School__
 
@@ -31,6 +33,7 @@ __American Preparatory Academy - The Accelerated School__
 ## WORK EXPERIENCE
 
 `Lisbon, Portugal
+
 January 2020 - December 2020`
 
 __WEBHELP__
@@ -42,6 +45,7 @@ _German Advisors of Customer Support over HotelTonight_
 - Analyzed data from hundreds of hotels to be able to deliver recommendations to guests
 
 `Lisbon, Portugal
+
 June 2019 - January 2020`
 
 __Randstad__
@@ -56,6 +60,7 @@ _German Airline Assistant, project TAP_
 ## Service
 
 `Munich, Germany
+
 December 2016 - November 2018`
 
 __The Church of Jesus Christ of Latter-Day Saints__
