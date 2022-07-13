@@ -5,20 +5,22 @@ title: Diogo Silva
 
 # Diogo Silva
 
-385-212-7498 | diogoplantiersilve@gmail.com | [LinkedIn](https://www.linkedin.com/in/diogo-silva-37b23917a/)>
+## 385-212-7498 | diogoplantiersilve@gmail.com | [LinkedIn](https://www.linkedin.com/in/diogo-silva-37b23917a/)>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
 __Brigham Young University - Idaho__
-*Rexburg, Idaho, Expected Graduation: April 2024*
+
+*Rexburg, Idaho, Graduation: April 2024*
 
 _Bachelor of Science in Economics_
 * Minors in Math and Data Science
 
 
 __American Preparatory Academy - The Accelerated School__
+
 *West Valley, Utah, May 2016*
 
 * High School diploma
@@ -31,6 +33,7 @@ __American Preparatory Academy - The Accelerated School__
 
 __WEBHELP__
 _German Advisors of Customer Support over HotelTonight_
+
 *Lisbon, Portugal; January 2020 - December 2020*
 
 * Reviewed hundreds of customer dissatisfaction with hotel accommodations
@@ -40,6 +43,7 @@ _German Advisors of Customer Support over HotelTonight_
 
 __Randstad__
 _German Airline Assistant, project TAP_
+
 *Lisbon, Portugal; June 2019 - January 2020*
 
 * Managed 35 to 100 calls from passengers from Austria, Germany, Switzerland impacted by flight delays and other flights 
@@ -52,11 +56,11 @@ by flight mishaps
 
 ## Service
 
-
-
 __The Church of Jesus Christ of Latter-Day Saints__
 _Full-time Missionary_
+
 *Munich, Germany; December 2016 - November 2018*
+
 * Represented The Church of Jesus Christ of Latter-Day Saints in three capacities: local activities, informational 
 activities, and educational activities
 * Volunteered as representatives of The Church of Jesus Christ of Latter-Day Saint engaged variously in proselytizing,
